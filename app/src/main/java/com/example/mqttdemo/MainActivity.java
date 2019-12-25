@@ -20,8 +20,9 @@ public class MainActivity extends AppCompatActivity{
     //订阅
     private EditText et_subscriber;
     private Button btn_subscriber;
-    //发布
+    //发布的话题
     private EditText et_publish_topic;
+    //发布的消息
     private EditText et_publish_message;
     private Button btn_publish;
     //发布或订阅的话题和消息
