@@ -17,7 +17,7 @@ import org.greenrobot.eventbus.ThreadMode;
 public class MainActivity extends AppCompatActivity{
 
     private MQTTManager mqttManager;
-    //订阅
+    //订阅的话题
     private EditText et_subscriber;
     private Button btn_subscriber;
     //发布的话题
